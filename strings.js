@@ -15,19 +15,19 @@
 
 // String - Data types that display text
 
-const emptyString = ''
-const singleQuotes = 'I am written in Single quotes'
-const doubleQuotes = "I am written in Double quotes"
-const backTicks = `I am written in Back Ticks`
-const coolThingAboutBackTicks = `I can have 'single' or "double" quotes written inside of me!!`
+const emptyString = '';
+const singleQuotes = 'I am written in Single quotes';
+const doubleQuotes = "I am written in Double quotes";
+const backTicks = `I am written in Back Ticks`;
+const coolThingAboutBackTicks = `I can have 'single' or "double" quotes written inside of me!!`;
 
-const name = 'Melissa'
-const addMelissaToString = `Hello, my name is ${name}. My name was added to this string by using something called "Template Literals". `
+const name = 'Melissa';
+const addMelissaToString = `Hello, my name is ${name}. My name was added to this string by using something called "Template Literals".`;
 
 
 // Switch out the Variable that you'd like to see displayed in the console!
 //TODO: Don't forget to 'Refresh' your browser between switches!
 // Feel free to add as many console.log()'s as you'd like - I used one to keep the console 'cleaner'
 
-const changeMe = 'Change the variable in console.log() to see other variables in action!!'
-console.log(changeMe)
+const changeMe = 'Change the variable in console.log() to see other variables in action!!';
+console.log(changeMe);
