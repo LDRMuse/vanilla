@@ -1,4 +1,4 @@
-#UNDER CONSTRUCTION as I add to this repo
+# UNDER CONSTRUCTION as I add to this repo
 
 This Project is all about **Vanilla JavaScript**!
 
@@ -10,9 +10,10 @@ This also helps me brush up on my own skills by going back to the *'beginning'*.
 **Clone to get started**!
 
 Each topic is a separate JavaScript File:
+*I suggest viewing in this particular order*
 
 1. variables_and_dataTypes.js
-2. operators_and_equality.js
+2. strings.js
 
 To view each JavaScript file, switch out the <*script*> in **'index.html'** with the JavaScript file of *your* choice!
 
