@@ -34,11 +34,31 @@ console.log(variableThree)
 
 // Data Types are:
 // Primitive: Strings, Numbers, Booleans, Null, Undefined
-// Complex: Object
+// Complex: Object, Arrays, Function
 
+// Primitive
 const stringType = 'I am a string because I am in quotes'
 const numberType = 3
 const booleanType = true
 const nullType = null
 const undefinedType = undefined
-const objectType = {'I am a string inside an object!'}
+
+// Complex
+
+// Objects have key/value pairs - message is key, the string is a value!
+const objectType = { message: 'I am a string inside an Object!'}
+
+// Arrays can hold Primitives and Complex data types!
+const arrayType = ['I am a string inside of an Array!',
+  { message: 'I am a string inside of an OBJECT inside of an ARRAY'}]
+
+// Functions are special type of Objects!
+// There are a few ways to write a function
+// Below is an 'arrow function' that holds another version of a function inside - 'console.log()'
+
+const functionType = () => {
+console.log('I am a little complicated right now but I am a string inside a function')
+}
+// This calls the 'functionType' function - which hold a 'console.log()' function inside!
+// This is why you can see the message in your console!
+functionType()
