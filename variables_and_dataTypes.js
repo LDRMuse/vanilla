@@ -1,6 +1,6 @@
 // Welcome to Variables and DataTypes!
 
-//TODO:
+//TODO: Remember to add this file to your 'index.js' script!!
 // 1. Right click on index.html and click:
 //    'Reveal in Finder' - for mac
 // OR 'Reveal in File Explorer' - for Windows
