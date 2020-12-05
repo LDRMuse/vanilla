@@ -14,6 +14,7 @@ Each topic is a separate JavaScript File:
 
 1. variables_and_dataTypes.js
 2. strings.js
+3. numbers_and_booleans.js
 
 To view each JavaScript file, switch out the <*script*> in **'index.html'** with the JavaScript file of *your* choice!
 

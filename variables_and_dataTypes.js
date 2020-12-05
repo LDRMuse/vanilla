@@ -26,8 +26,8 @@ console.log(variableThree);
 
 // https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e
 
-variableThree = 'My value has changed because I am a let variable'
-console.log(variableThree)
+variableThree = 'My value has changed because I am a let variable';
+console.log(variableThree);
 
 
 // Values have a Type of Data stored in them
@@ -37,28 +37,28 @@ console.log(variableThree)
 // Complex: Object, Arrays, Function
 
 // Primitive
-const stringType = 'I am a string because I am in quotes'
-const numberType = 3
-const booleanType = true
-const nullType = null
-const undefinedType = undefined
+const stringType = 'I am a string because I am in quotes';
+const numberType = 3;
+const booleanType = true;
+const nullType = null;
+const undefinedType = undefined;
 
 // Complex
 
 // Objects have key/value pairs - message is key, the string is a value!
-const objectType = { message: 'I am a string inside an Object!'}
+const objectType = { message: 'I am a string inside an Object!'};
 
 // Arrays can hold Primitives and Complex data types!
 const arrayType = ['I am a string inside of an Array!',
-  { message: 'I am a string inside of an OBJECT inside of an ARRAY'}]
+  { message: 'I am a string inside of an OBJECT inside of an ARRAY'}];
 
 // Functions are special type of Objects!
 // There are a few ways to write a function
 // Below is an 'arrow function' that holds another version of a function inside - 'console.log()'
 
 const functionType = () => {
-console.log('I am a little complicated right now but I am a string inside a function')
+console.log('I am a little complicated right now but I am a string inside a function');
 }
 // This calls the 'functionType' function - which hold a 'console.log()' function inside!
 // This is why you can see the message in your console!
-functionType()
+functionType();
