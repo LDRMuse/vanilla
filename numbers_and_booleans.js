@@ -57,6 +57,10 @@ if (!isUncool) {
 };
 
 const age = 18
+
+// is age greater than 80?? - false
+console.log(age > 80)
+
 console.log(age >= 18, `You are an adult!!`);
 console.log(age < 18, `You are a child...`);
 
