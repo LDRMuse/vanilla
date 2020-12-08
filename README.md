@@ -12,10 +12,10 @@ This also helps me brush up on my own skills by going back to the *'beginning'*.
 Each topic is a separate JavaScript File:
 *I suggest viewing in this particular order*
 
-1. variables_and_dataTypes.js
-2. strings.js
-3. numbers_and_booleans.js
-4. null_and_undefined.js
+1. JavaScriptBasics/variables_and_dataTypes.js
+2. JavaScriptBasics/strings.js
+3. JavaScriptBasics/numbers_and_booleans.js
+4. JavaScriptBasics/null_and_undefined.js
 
 To view each JavaScript file, switch out the <*script*> in **'index.html'** with the JavaScript file of *your* choice!
 
